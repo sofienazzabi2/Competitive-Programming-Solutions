@@ -1,0 +1,1 @@
+indexShort == -1 ? cout << "X " : cout << v1[indexShort]<<" ";
